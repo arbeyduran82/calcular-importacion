@@ -1,0 +1,26 @@
+body{
+	background-image: url("../img/textura_1.jpg");
+}
+
+.col-md-3{
+	background:#ec812a;
+}
+h1{
+	background: #ec812a;
+	text-align: center;
+	margin:5px;
+	padding:40px;
+	color: #ffffff;
+}
+.copyrights{
+	text-align: center;
+}
+
+.fecha{
+	background: #ec812a;
+	text-align: center;
+	margin:2px;
+	padding:25px;
+	color: #ffffff;
+	font-size: 23px;
+}
