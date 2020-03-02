@@ -133,7 +133,7 @@
 		<br>
 		<div class="copyrights">
 			<td><span style="color: #ffffff; text-align: center;">Desarrollado por:</span></td>
-			<td><a href="https://giohosting.com/" target="_blank">Giohosting.com</a></td>
+			<td><a href="https://giohosting.com/" target="_blank">giohosting.com</a></td>
 		</div>
 	</div>
 	</div>
